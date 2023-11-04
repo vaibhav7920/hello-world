@@ -1,2 +1,2 @@
 Hello Artifactory and Sonar
-My name is rajat
+My name is
